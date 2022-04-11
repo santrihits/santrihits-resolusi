@@ -1,0 +1,11 @@
+Santri Hits Resolusi
+- git, version control system, github
+- Basic Terminal Usage
+- Data Structure & Alghoritms
+- Design Patterns
+- YAGNI (Ya Ain't Gonna Need It), KISS (Keep It Simple, Stupid, "Silly, Shall we"), SOLID (Single responsibility, Open-closed, Liskov substitution, Interface segragation, Dependency inversion)
+- Licenses
+- Somantic Versioning
+- SSH
+- HTTP/HTTPS and APIs
+- Character Encodings
