@@ -9,3 +9,4 @@ Santri Hits Resolusi
 - SSH
 - HTTP/HTTPS and APIs
 - Character Encodings
+- Jangan lupa ucapkan terimakasih ke bapak sandi kagalih
